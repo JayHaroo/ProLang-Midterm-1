@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProLang Midterm 1/1.0.0": {
+        "runtime": {
+          "ProLang Midterm 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProLang Midterm 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
