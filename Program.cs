@@ -14,28 +14,29 @@ class Analyzer
         int sub = num1 - num2;
         int mul = num1 * num2;
         int div = num1 / num2;
+        string opp = "";
 
         Console.WriteLine("=================");
 
         if (cutSyn[2] == '+')
         {
             Console.WriteLine(cutSyn + " = " + sum);
-            Console.WriteLine("+ = Addition Operator");
+            opp = "+";
         }
         else if (cutSyn[2] == '-')
         {
             Console.WriteLine(cutSyn + " = " + sub);
-            Console.WriteLine("- = Subtraction Operator");
+            opp = "-";
         }
         else if (cutSyn[2] == '*')
         {
             Console.WriteLine(cutSyn + " = " + mul);
-            Console.WriteLine("* = Multiply Operator");
+            opp = "*";
         }
         else if (cutSyn[2] == '/')
         {
             Console.WriteLine(cutSyn + " = " + div);
-            Console.WriteLine("/ = Division Operator");
+            opp = "/";
         }
         else
         {
@@ -43,6 +44,8 @@ class Analyzer
         }
 
         Console.WriteLine(Convert.ToString(cutSyn[0]) + " = Integer Literal");
+        Console.WriteLine(opp + " = Operator");
         Console.WriteLine(Convert.ToString(cutSyn[4]) + " = Integer Literal");
+        Console.WriteLine("= = Equal Operator");
     }
 }

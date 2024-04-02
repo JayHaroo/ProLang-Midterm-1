@@ -12,3 +12,4 @@ C:\Users\M-Jey\Desktop\codes\ProLang Midterm 1\obj\Debug\net8.0\refint\ProLang M
 C:\Users\M-Jey\Desktop\codes\ProLang Midterm 1\obj\Debug\net8.0\ProLang Midterm 1.pdb
 C:\Users\M-Jey\Desktop\codes\ProLang Midterm 1\obj\Debug\net8.0\ProLang Midterm 1.genruntimeconfig.cache
 C:\Users\M-Jey\Desktop\codes\ProLang Midterm 1\obj\Debug\net8.0\ref\ProLang Midterm 1.dll
+C:\Users\M-Jey\Desktop\codes\ProLang Midterm 1\obj\Debug\net8.0\ProLang Midterm 1.sourcelink.json
